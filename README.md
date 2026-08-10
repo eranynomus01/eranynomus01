@@ -1,5 +1,5 @@
-# 💫 About Me:
-## 👨‍💻 About Me<br><br>* 🎓 B.Tech student in Artificial Intelligence & Data Science.<br>* 💻 Interested in Full-Stack Development, AI, and Backend Engineering.<br>* 🚀 I enjoy building real-world applications that solve practical problems.<br>* ⚡ Tech Stack: Python, JavaScript, React.js, Node.js, Express.js, Flask, HTML, CSS, Tailwind CSS, Bootstrap.<br>* 🗄️ Databases: PostgreSQL, MySQL, SQLite, and Supabase.<br>* 🛠️ Tools: Git, GitHub, VS Code, and Vercel.<br>* 📚 Currently learning AI Engineering, System Design, Cloud Deployment, and scalable application development.<br>* 🌱 I believe the best way to learn is by building projects and continuously improving them.<br>* 🤝 Always open to learning, collaborating, and contributing to interesting projects.<br>
+#  About Me:
+##  About Me<br><br>*  B.Tech student in Artificial Intelligence & Data Science.<br>*  Interested in Full-Stack Development, AI, and Backend Engineering.<br>*  I enjoy building real-world applications that solve practical problems.<br>*  Tech Stack: Python, JavaScript, React.js, Node.js, Express.js, Flask, HTML, CSS, Tailwind CSS, Bootstrap.<br>* Databases: PostgreSQL, MySQL, SQLite, and Supabase.<br>*  Tools: Git, GitHub, VS Code, and Vercel.<br>*  Currently learning AI Engineering, System Design, Cloud Deployment, and scalable application development.<br>*  I believe the best way to learn is by building projects and continuously improving them.<br>*  Always open to learning, collaborating, and contributing to interesting projects.<br>
 
 
 ## 🌐 Socials:
